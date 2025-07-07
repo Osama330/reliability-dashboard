@@ -1,5 +1,6 @@
 streamlit
 pandas
 plotly
-python-docx
 openpyxl
+python-docx
+reportlab
